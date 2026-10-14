@@ -43,8 +43,8 @@ MultiBot propose de nombreux systèmes conçus pour simplifier la gestion de vot
 ### Cloner le dépôt
 
 ```bash
-git clone https://github.com/sayohelloworld/MultiBot.git
-cd MultiBot (vous pouvez ensuite renommer ce dossier dans votre PC hyn)
+git clone https://github.com/majuhelloworld/MultiBot.git
+cd MultiBot (vous pouvez ensuite renommer ce dossier autrement sur votre PC hyn)
 ```
 
 ### Installer les dépendances
